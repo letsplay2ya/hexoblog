@@ -1,3 +1,6 @@
 [submodule "themes/Chic"]
 	path = themes/Chic
 	url = https://github.com/letsplay2ya/Chic
+[submodule "Chic"]
+	path = Chic
+	url = https://github.com/letsplay2ya/Chic
