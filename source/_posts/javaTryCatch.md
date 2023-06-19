@@ -96,7 +96,7 @@ ex) 배열범위 초과 IndexOutOfBoundsException
 
 예외처리구문 Try - Catch 문. 
 try-catch문의 구조 
-```java
+'''java
 try {
  //예외발생할 가능성이 있는 문장 
 
@@ -111,7 +111,7 @@ try {
  //ExceptionN이 발생했을 경우, 이를 처리하지 위한 문장적는다.
  
 }
-```
+'''
 
 기본적인 try catch 구문의 구조이다.
 
