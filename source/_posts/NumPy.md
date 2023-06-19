@@ -5,6 +5,7 @@ toc: true
 category:
 - [Database, numpy]
 ---
+![](../images/thumbnail/numpy.png)
 # NumPy 기초 연습
 
 ## NumPy 설치

@@ -4,7 +4,7 @@ thumbnail: ../images/thumbnail/java.png
 toc: true
 category: java
 ---
-
+![](../images/thumbnail/java.png)
 기존 코드
 
 ``` java

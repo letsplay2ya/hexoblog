@@ -5,7 +5,7 @@ toc: true
 category:
 - [Database, oracle]
 ---
-
+![](../images/thumbnail/oracle.jpg)
 
 ## SQL Developer
 

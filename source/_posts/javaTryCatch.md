@@ -4,7 +4,7 @@ thumbnail: ../images/thumbnail/java.png
 toc: true
 category: java
 ---
-
+![](../images/thumbnail/java.png)
 ## 에러(Error) 
 
 프로그램 실행중 어떤원인에 의해 오작동하거나 비정상 종료된 경우.

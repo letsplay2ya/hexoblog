@@ -5,7 +5,7 @@ toc: true
 category:
 - [Database, oracle]
 ---
-
+![](../images/thumbnail/oracle.jpg)
 
 - 파이참에서 가상환경을 만들어 오라클 연동 예제를 작성한다.
 - 아나콘다, 파이참, 그리고 오라클 설치는 생략한다.

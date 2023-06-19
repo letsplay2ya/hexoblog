@@ -5,7 +5,7 @@ toc: true
 category:
 - [Database, oracle]
 ---
-
+![](../images/thumbnail/oracle.jpg)
 
 ## 오라클 접속 명령어 확인 
 

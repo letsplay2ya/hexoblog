@@ -4,7 +4,7 @@ thumbnail: ../images/thumbnail/git.png
 toc: true
 category: git
 ---
-![github](../images/git.png)
+![](../images/thumbnail/git.png)
 
 ## 개요  
 >Hexo 블로그를 만들면서 Git Hub 기초를 습득한다.(Window 환경)  

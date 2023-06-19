@@ -5,6 +5,7 @@ toc: true
 category:
 - [Database, oracle]
 ---
+![](../images/thumbnail/oracle.jpg)
 
 ## SQL Developer 설치
 - 다음의 URL([https://www.oracle.com/tools/downloads/sqldev-downloads.html](https://www.oracle.com/tools/downloads/sqldev-downloads.html))로 접속하여 오라클 SQL Developer를 다운로드 받는다.

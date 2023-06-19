@@ -5,7 +5,7 @@ toc: true
 category:
 - [Database, polotly]
 ---
-
+![](../images/thumbnail/plotly.png)
 
 ## 개요
 
