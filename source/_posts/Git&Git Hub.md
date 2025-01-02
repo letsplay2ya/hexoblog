@@ -92,3 +92,62 @@ C:\Users\1\Desktop\myblog>git add .
 C:\Users\1\Desktop\myblog>git commit -m "add: new post updated"
 C:\Users\1\Desktop\myblog>git push origin master
 ```
+
+## 백업
+>각자의 github에 접속하여 2개의 repository를 생성한다.
+
+- theme를 저장할 repository
+- .md파일을 저장할 repository
+
+
+### theme 백업
+>themes/테마명 내에서 다음의 명령어들을 실행한다.
+```bash
+# 원격 저장소 변경(theme url로 된 세팅을 자신의 repository url로 재세팅)
+git remote set-url origin "theme를 저장할 repository 주소"
+
+# 테마 내용 백업
+git commit -m "theme backup"
+git push origin
+```
+### md파일 백업
+>hexo blog 디렉토리에서 .md파일을 저장할 repository를 세팅해준다.
+```bash
+# git 초기화
+git init
+
+# 원격 저장소 등록
+git remote add origin ".md파일을 저장할 repository 주소"
+
+# 현재 내용 백업
+git add .
+git commit -m "blog backup"
+git push origin
+```
+### (선택) theme폴더 submodule 추가
+```bash
+# 기존의 <themes/테마명>를 삭제
+rm -rf themes/테마명
+
+# 백업해둔 theme repository를 submodule로 추가
+git submodule add "theme를 저장한 repository 주소"
+
+# 현재 내용 백업
+git add .
+git commit -m "blog theme submodule"
+git push origin
+```
+
+### 백업 가져오기
+```bash
+# 기존의 <themes/테마명>를 삭제
+rm -rf themes/테마명
+
+# 백업해둔 theme repository를 submodule로 추가
+git submodule add "theme를 저장한 repository 주소"
+
+# 현재 내용 백업
+git add .
+git commit -m "blog theme submodule"
+git push origin
+```

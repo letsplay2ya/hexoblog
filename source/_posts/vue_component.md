@@ -2,7 +2,7 @@
 title: "Vue 3 + TypeScript 분기처리 정리"
 thumbnail: ../images/thumbnail/vue.png
 toc: true
-category: java
+category: vue
 tags:
 - vue3
 - typescript
